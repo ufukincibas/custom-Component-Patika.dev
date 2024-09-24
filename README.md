@@ -1,0 +1,1 @@
+ Patika.dev React Native Custom Companent calisması (Card yapısı)
